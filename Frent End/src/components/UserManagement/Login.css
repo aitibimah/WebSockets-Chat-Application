@@ -1,0 +1,10 @@
+#root {
+    width: 45% !important;
+    min-width: 360px !important;
+    max-width: 1000px !important;
+    height: 45vh !important;
+    min-height: 290px !important;
+    max-height: 720px !important;
+    background: #E6EAEA !important;
+    border-radius: 10px;
+}

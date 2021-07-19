@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Bimah
+Build-Jdk: version 16.0.1
+Implementation-Title: Chat_App
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.App
+Main-Class: ${start-class}
+
